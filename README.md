@@ -2,6 +2,7 @@ ZONA EN DESARROLLO:
 
 # Modelo IA
 Instalacion en Ollama. 
+
 Modelo seleccionado actualmente: Mistral.
 
 # Modelos de Voz Gratuitos:
