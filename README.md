@@ -6,6 +6,7 @@ Modelo seleccionado actualmente: Mistral.
 
 # Modelos de Voz Gratuitos:
 Vozk https://alphacephei.com/vosk/models/vosk-model-es-0.42.zip  (1.5 Gb)
+
 Vozk Lite https://alphacephei.com/vosk/models/vosk-model-small-es-0.42.zip (39 Mb)
 
 # ---------- COMANDOS ACTUALES ----------
