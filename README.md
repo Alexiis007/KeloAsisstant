@@ -1,5 +1,5 @@
 ZONA EN DESARROLLO:
-# ----------------------------------------------- COMANDOS ACTUALES -----------------------------------------------
+# ---------- COMANDOS ACTUALES ----------
 
 => BUSQUEDA DESDE WIKIPEDIA: ["BUSCAR", "BUSCA", "BUSQUEDA", "INVESTIGA"]
 
